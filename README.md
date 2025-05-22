@@ -76,4 +76,4 @@ Tested thoroughly on:
 All assignment requirements have been met and tested.
 
 ## Credits
-Created by Alex Orr for JHUB Coding Scheme Module 2. Thanks to the JHUB team for the opportunity to learn Android development!
+Created by Alex Orr for JHUB Coding Scheme Module 2.
