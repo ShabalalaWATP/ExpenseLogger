@@ -17,8 +17,13 @@ The app includes everything required for the assignment:
 * Delete function for removing old expenses
 * All data saved locally using SQLite
 
-##What the App Looks Like
+## What the App Looks Like
+
 ![image](https://github.com/user-attachments/assets/6c7853a1-a414-49f6-a50f-30ce66c495f1)
+![image](https://github.com/user-attachments/assets/0f17ccd3-548f-4f59-977e-362beb9b654d)
+![image](https://github.com/user-attachments/assets/923c6a33-456b-493e-a441-05944ec896ca)
+![image](https://github.com/user-attachments/assets/1d5c0a81-7f8a-4f64-836b-efef00ed5575)
+
 
 
 ## Technical Bits
