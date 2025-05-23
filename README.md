@@ -26,8 +26,8 @@ The app includes everything required for the assignment:
 
 As you can see the camera isn't working on the Windows Android Studio device emulator, this is a common issue with Android Studio on Windows.
 
-## Technical Bits
-**Language**: Kotlin (brand new to me!)  
+## Technical Stuff
+**Language**: Kotlin
 **IDE**: Android Studio  
 **Minimum SDK**: 24 (Android 7.0)  
 **Target SDK**: 34 (Android 14)  
