@@ -17,6 +17,10 @@ The app includes everything required for the assignment:
 * Delete function for removing old expenses
 * All data saved locally using SQLite
 
+##What the App Looks Like
+![image](https://github.com/user-attachments/assets/6c7853a1-a414-49f6-a50f-30ce66c495f1)
+
+
 ## Technical Bits
 **Language**: Kotlin (brand new to me!)  
 **IDE**: Android Studio  
