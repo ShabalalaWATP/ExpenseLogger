@@ -1,7 +1,7 @@
 # Expense Logger Android Application
 
 ## About This Project
-Built by Alex Orr as part of JHUB Coding Scheme Module 2: Creating an App. This is my first proper Android application using Kotlin!
+Built by me; Alex Orr as part of JHUB Coding Scheme Module 2: Creating an App. This is my first proper Android application using Kotlin!
 
 ## What It Does
 This app helps you track expenses by taking photos of receipts. Perfect for keeping track of what you need to claim back. You can snap a picture of any receipt, add how much you want to claim, and the app keeps a running total for you.
