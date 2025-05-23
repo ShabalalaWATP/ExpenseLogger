@@ -24,7 +24,7 @@ The app includes everything required for the assignment:
 ![image](https://github.com/user-attachments/assets/923c6a33-456b-493e-a441-05944ec896ca)
 ![image](https://github.com/user-attachments/assets/1d5c0a81-7f8a-4f64-836b-efef00ed5575)
 
-
+As you can see the camera isn't working on the Windows Android Studio device emulator, this is a common issue with Android Studio on Windows.
 
 ## Technical Bits
 **Language**: Kotlin (brand new to me!)  
